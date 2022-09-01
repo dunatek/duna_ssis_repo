@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="Australia.csv"
+  DTS:DTSID="{24B627E1-D377-4ED4-91EA-E0CBFD0A404F}"
+  DTS:CreationName="FILE">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="C:\Dunatek\PowerBI\Data\InternationalSales\Australia.csv" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
